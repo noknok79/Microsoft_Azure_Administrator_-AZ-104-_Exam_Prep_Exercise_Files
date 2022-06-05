@@ -1,0 +1,20 @@
+{
+    "properties": {
+      "policyId": "default",
+      "sourceAccount": "sablobeast",
+      "destinationAccount": "sablobcentral",
+      "rules": [
+        {
+          "ruleId": "default",
+          "sourceContainer": "blobdata",
+          "destinationContainer": "centraltargetcontainer",
+          "filters": {
+            "prefixMatch": [
+              "b"
+            ],
+            "minCreationTime": "2020-08-028T00:00:00Z"
+          }
+        }
+      ]
+    }
+  }

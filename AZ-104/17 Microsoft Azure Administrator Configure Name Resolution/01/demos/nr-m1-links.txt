@@ -1,0 +1,28 @@
+Module 1: Configure Name Resolution for an Azure Virtual Network
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Domain Name System (DNS) | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/networking/dns/dns-top
+
+Reviewing DNS Concepts | Microsoft Docs
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/reviewing-dns-concepts
+
+Name resolution for resources in Azure virtual networks | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances
+
+What is IP address 168.63.129.16? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16
+
+DNS in Microsoft Azure – Part 1 | Journey Of The Geek
+https://journeyofthegeek.com/2019/11/14/dns-in-microsoft-azure-part-1/
+
+Why Azure reserves first four IP address of a subnet - Stack Overflow
+https://stackoverflow.com/questions/43298448/why-azure-reserves-first-four-ip-address-of-a-subnet
+
+Test-NetConnection (NetTCPIP) | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=win10-ps
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table

@@ -1,0 +1,43 @@
+Module 2: Implementing Azure Bastion and Azure Firewall
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure Virtual Network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+Azure Virtual Network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table
+
+Route network traffic - tutorial - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal
+
+Create, change, or delete an Azure network interface | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface
+
+Configure routing preference for a public IP address - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/routing-preference-portal
+
+Azure Bastion | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
+
+Working with VMs and NSGs in Azure Bastion | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/bastion/bastion-nsg
+
+What is Azure Firewall? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/overview
+
+What is Azure Firewall Manager? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/overview
+
+Azure Firewall forced tunneling | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/forced-tunneling
+
+Azure Virtual WAN Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about

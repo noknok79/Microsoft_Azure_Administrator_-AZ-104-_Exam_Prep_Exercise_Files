@@ -1,0 +1,73 @@
+Module 1: Implementing Azure Virtual Networks
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure Virtual Network Documentation - Tutorials, quickstarts, API references | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/
+
+RFC 1918 - Address Allocation for Private Internets
+https://tools.ietf.org/html/rfc1918
+
+Download Azure IP Ranges and Service Tags – Public Cloud from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=56519
+
+Private IP addresses in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/private-ip-addresses
+
+Public IP addresses in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
+
+What is IP address 168.63.129.16? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16
+
+Name resolution for resources in Azure virtual networks | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances
+
+Azure service tags overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview
+
+Azure network security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+Azure DNS documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/
+
+Azure Firewall documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/
+
+Azure Bastion documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/bastion/
+
+Just-in-time virtual machine access in Azure Security Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time?tabs=jit-config-asc%2Cjit-request-asc
+
+Create, change, or delete an Azure network interface | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface
+
+Network Interfaces (Azure Virtual Networks) | Microsoft Docs
+https://docs.microsoft.com/en-us/rest/api/virtualnetwork/networkinterfaces
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Moving a VM to a different virtual network in Microsoft Azure
+http://techgenix.com/moving-a-vm/
+
+Azure Virtual Network FAQ | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
+
+Azure REST API Reference | Microsoft Docs
+https://docs.microsoft.com/en-us/rest/api/azure/
+
+Create a virtual network - quickstart - Azure PowerShell | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-powershell
+
+Azure PowerShell samples for virtual network | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/powershell-samples
+
+Azure Network Watcher Documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/
+
+Azure Blueprints documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/governance/blueprints/

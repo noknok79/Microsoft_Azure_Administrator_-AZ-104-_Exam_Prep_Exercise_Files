@@ -1,0 +1,59 @@
+Module 2: Managing Azure Virtual Networks
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure Virtual Network Documentation - Tutorials, quickstarts, API references | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/
+
+What is subnet delegation in Azure virtual network? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview
+
+Azure virtual network service endpoints | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+What is an Azure Private Endpoint? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+
+Hardening your Azure Storage Account by using Service Endpoints – Karim Vaes
+https://kvaes.wordpress.com/2019/03/10/hardening-your-azure-storage-account-by-using-service-endpoints/
+
+Hardening your Azure Storage Account by using Service Endpoints – Karim Vaes
+https://kvaes.wordpress.com/2019/03/10/hardening-your-azure-storage-account-by-using-service-endpoints/
+
+Get started with Storage Explorer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows
+
+Configure Azure Storage firewalls and virtual networks | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security
+
+Diagnose an Azure virtual machine routing problem | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem
+
+Create, change, or delete an Azure route table | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table
+
+Azure Virtual Network peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Route network traffic - tutorial - Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal
+
+Deploy highly available NVAs - Azure Architecture Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha
+
+Deploy highly available NVAs - Azure Architecture Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha
+
+Introduction to next hop in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-next-hop-overview
+
+Azure Firewall documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/
+
+Shared responsibility in the cloud - Microsoft Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility
+

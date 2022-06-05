@@ -1,0 +1,67 @@
+Module 1: Monitor Resources with Azure Monitor
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Sources of data in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources
+
+Overview of Insights in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview
+
+Azure Monitor Workbooks Overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview
+
+Create diagnostic settings to send platform logs and metrics to different destinations - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings
+
+Resource Manager template samples for diagnostic settings - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/samples/resource-manager-diagnostic-settings
+
+Tutorial: Get started with Log Analytics queries - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal
+
+Log Analytics agent overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/log-analytics-agent
+
+Overview of the Azure monitoring agents - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/agents-overview
+
+Azure Data Explorer documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/
+
+Download and install Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+KQL quick reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference
+
+Azure Activity log - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log
+
+Send Azure Activity log to Log Analytics workspace using Azure portal - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-collect-activity-log-portal
+
+Getting started with Azure metrics explorer - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-getting-started
+
+Create custom dashboards in Azure Application Insights - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-app-dashboards
+
+Create and share dashboards of Azure Log Analytics data - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-logs-dashboards
+
+What is Azure Application Insights? - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
+Using Service Map solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/service-map
+
+Download Visual Studio 2019 for Windows & Mac
+https://visualstudio.microsoft.com/downloads/
+
+KQL Online Course: The Basics of Kusto Query Language | Pluralsight
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch
+
+Collect custom logs in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-custom-logs

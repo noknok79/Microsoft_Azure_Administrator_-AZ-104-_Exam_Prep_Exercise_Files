@@ -1,0 +1,39 @@
+Module 1: Azure Networking "Need to Know" Information
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Pluralsight - PowerShell Getting Started
+https://www.pluralsight.com/courses/powershell-getting-started
+
+Pluralsight - Azure CLI Getting Startedhttps://www.pluralsight.com/courses/azure-cli-getting-started
+
+Pluralsight - KQL from Scratch
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch
+
+Tim's AZ-104 Mapping Document
+https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/ERry4ud6hvlNs3gnfZYdVzoBGsSK5qw62uh0cw-TZj2Pfg?rtime=qhDc8_xT2Eg
+
+certification-exam-policies | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies
+
+Pluralsight - Role IQ
+https://www.pluralsight.com/product/role-iq
+
+Pluralsight - Skill IQ
+https://www.pluralsight.com/product/skill-iq
+
+Home - Microsoft Azure Pass
+https://www.microsoftazurepass.com/
+
+Microsoft Learn - Administrator Path
+https://docs.microsoft.com/en-us/learn/browse/?roles=administrator
+
+whizlabs 104
+https://www.whizlabs.com/microsoft-azure-certification-az-104/
+
+YouTube - Microsoft Learning
+https://www.youtube.com/user/microsoftlearning
+
+YouTube - Tim Warner
+https://www.youtube.com/channel/UCim7PFtynyPuzMHtbNyYOXA

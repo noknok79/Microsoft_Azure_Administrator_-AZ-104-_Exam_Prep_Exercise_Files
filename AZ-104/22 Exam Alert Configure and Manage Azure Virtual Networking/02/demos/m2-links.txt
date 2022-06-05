@@ -1,0 +1,43 @@
+Module 2: Getting Up to Speed with Networking in General
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Configure IP addresses for an Azure network interface | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-addresses
+
+Azure networking services overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/networking/networking-overview
+
+Pluralsight - Network Watcher
+https://www.pluralsight.com/courses/azure-network-watcher-troubleshooting
+
+Pluralsight - Wireshark
+https://www.pluralsight.com/courses/getting-started-analyzing-network-traffic-wireshark
+
+The OSI model explained: How to understand (and remember) the 7-layer network model | Network World
+https://www.networkworld.com/article/3239677/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html
+
+Azure Network Watcher Documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/
+
+Introduction to Packet capture in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-overview
+
+Microsoft Message Analyzer Operating Guide - Message Analyzer | Microsoft Docs
+https://docs.microsoft.com/en-us/message-analyzer/microsoft-message-analyzer-operating-guide
+
+Network+ (Plus) Certification | CompTIA IT Certifications
+https://www.comptia.org/certifications/network
+
+TCP/IP Certification
+http://www.ncsacademy.com/certification/tcpip.cfm
+
+CCNA - Training & Certifications - Cisco
+https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
+How to Decrypt SSL with Wireshark - HTTPS Decryption Guide
+https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/

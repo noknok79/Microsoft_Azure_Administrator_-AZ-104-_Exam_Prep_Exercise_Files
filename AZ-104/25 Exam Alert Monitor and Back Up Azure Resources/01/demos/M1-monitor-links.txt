@@ -1,0 +1,165 @@
+Microsoft Azure Administrator: Monitor Resources with Azure Monitor
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Sources of data in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources
+
+Overview of Insights in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview
+
+Azure Monitor Workbooks Overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview
+
+Create diagnostic settings to send platform logs and metrics to different destinations - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings
+
+Resource Manager template samples for diagnostic settings - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/samples/resource-manager-diagnostic-settings
+
+Tutorial: Get started with Log Analytics queries - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal
+
+Log Analytics agent overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/log-analytics-agent
+
+Overview of the Azure monitoring agents - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/agents-overview
+
+Azure Data Explorer documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/
+
+Download and install Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+KQL quick reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference
+
+Azure Activity log - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-log
+
+Send Azure Activity log to Log Analytics workspace using Azure portal - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-collect-activity-log-portal
+
+Getting started with Azure metrics explorer - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-getting-started
+
+Create custom dashboards in Azure Application Insights - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-app-dashboards
+
+Create and share dashboards of Azure Log Analytics data - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/learn/tutorial-logs-dashboards
+
+What is Azure Application Insights? - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
+Using Service Map solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/service-map
+
+Download Visual Studio 2019 for Windows & Mac
+https://visualstudio.microsoft.com/downloads/
+
+KQL Online Course: The Basics of Kusto Query Language | Pluralsight
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch
+
+Collect custom logs in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-sources-custom-logs
+
+Module 2: Monitoring and Reporting on Microsoft Azure Resources
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+KQL Online Course: The Basics of Kusto Query Language | Pluralsight
+https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch
+
+Microsoft Azure Data Explorer - Advanced KQL | Pluralsight
+https://www.pluralsight.com/courses/microsoft-azure-data-explorer-advanced-query-capabilities
+
+Exploring Data in Microsoft Azure Using Kusto Query Language and Azure Data Explorer | Pluralsight
+https://www.pluralsight.com/courses/microsoft-azure-data-exploring
+
+What is Azure Application Insights? - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview
+
+Application Insights for Azure cloud services - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/cloudservices
+
+KQL quick reference | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference
+
+Keyword Query Language (KQL) syntax reference | Microsoft Docs
+https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference
+
+KQL cheat sheets - Quick Reference official page - Microsoft Tech Community
+https://techcommunity.microsoft.com/t5/azure-data-explorer/kql-cheat-sheets-quick-reference-official-page/ba-p/1203181
+
+Download and install Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+Download and install Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15
+
+microsoft/jupyter-Kqlmagic: Extension (Magic) to Jupyter notebook and Jupyter lab, that enable notebook experience working with Kusto, ApplicationInsights, and LogAnalytics data.
+https://github.com/microsoft/jupyter-Kqlmagic
+
+Kusto (KQL) extension for Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/extensions/kusto-extension?view=sql-server-ver15
+
+Notebooks with Kqlmagic (Kusto Query Language) in Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-kqlmagic?view=sql-server-ver15
+
+Analyze data in Azure Data Explorer using Kusto Query Language (KQL) extension in Azure Data Studio - SQL Server Blog
+https://cloudblogs.microsoft.com/sqlserver/2020/09/24/analyze-data-in-azure-data-explorer-using-kusto-query-language-kql-extension-in-azure-data-studio/
+
+Azure Log Analytics – meet our new query language | Azure Blog and Updates | Microsoft Azure
+https://azure.microsoft.com/en-us/blog/azure-log-analytics-meet-our-new-query-language-2/
+
+#Microsoft Azure Log Analytics Query Playground Available #MSOMS #Azure #Analytics #HybridCloud | Argon Systems
+https://argonsys.com/microsoft-cloud/library/microsoft-azure-log-analytics-query-playground-available-msoms-azure-analytics-hybridcloud/
+
+Project Jupyter | Home
+https://jupyter.org/
+
+Use Jupyter Notebooks in Azure Data Studio - Azure Data Studio | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15
+
+How to use Jupyter Notebooks in Azure Data Studio
+https://azure.microsoft.com/en-us/resources/videos/azure-friday-how-to-use-jupyter-notebooks-in-azure-data-studio/
+
+Built-in magic commands — IPython 7.18.1 documentation
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+
+Perform UI tests with Selenium - Azure Pipelines | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/devops/pipelines/test/continuous-test-selenium?view=azure-devops
+
+Overview of alerting and notification monitoring in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview
+
+Create, view, and manage Metric Alerts Using Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-metric
+
+Create and manage action groups in the Azure portal - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups
+
+Create and manage action groups in the Azure portal - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups
+
+Create and manage action groups in the Azure portal - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups
+
+How to trigger complex actions with Azure Monitor alerts - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups-logic-app
+
+How to integrate the common alert schema with Logic Apps - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-common-schema-integrations
+
+Monitor status, view history, and set up alerts - Azure Logic Apps | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps
+
+Monitor with multi-step web tests - Azure Application Insights - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/availability-multistep
+
+Monitor availability and responsiveness of any web site - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability

@@ -1,0 +1,37 @@
+Module 2: Configuring ExpressRoute and Azure Virtual WAN
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+ExpressRoute documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/
+
+Pricing - ExpressRoute | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/expressroute/
+
+Connectivity providers and locations: Azure ExpressRoute | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations
+
+Azure ExpressRoute: Connectivity models | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models
+
+Azure ExpressRoute Overview: Connect over a private connection | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
+
+Virtual WAN documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/
+
+Azure Virtual WAN Overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about
+
+Pricing - Virtual WAN | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/virtual-wan/
+
+What is a secured virtual hub? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub
+
+What is Azure Firewall Manager? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall-manager/overview
+
+Azure Virtual WAN: Create a Network Virtual Appliance (NVA) in the hub | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub

@@ -1,0 +1,43 @@
+Module 2: Inspecting Azure Hybrid Cloud Network Traffic
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Network Performance Monitor solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor
+
+Azure ExpressRoute: Configure NPM for circuits | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/expressroute/how-to-npm
+
+FAQs - Network Performance Monitor solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-faq
+
+Azure Monitor for Networks (Preview) - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-insights-overview
+
+Azure Monitor for Networks (Preview) - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-insights-overview
+
+Azure Monitor Workbooks Overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview
+
+Getting started with Kusto | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/
+
+Diagnose On-Premises connectivity via VPN gateway - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity
+
+Manage packet captures - Azure portal - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-portal
+
+Introduction to Packet capture in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-overview
+
+Wireshark · Go Deep.
+https://www.wireshark.org/
+
+Microsoft Message Analyzer Operating Guide - Message Analyzer | Microsoft Docs
+https://docs.microsoft.com/en-us/message-analyzer/microsoft-message-analyzer-operating-guide
+
+Network+ (Plus) Certification | CompTIA IT Certifications
+https://www.comptia.org/certifications/network

@@ -1,0 +1,58 @@
+Module 1: Protecting Azure Virtual Network Traffic with NSGs
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+The OSI model explained: How to understand (and remember) the 7-layer network model | Network World
+https://www.networkworld.com/article/3239677/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html
+
+Azure network security groups overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+Create, change, or delete an Azure network security group | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+
+Azure Virtual Network FAQ | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
+
+Network security concepts and requirements in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview
+
+Best practices for network security - Microsoft Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices
+
+Azure service tags overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview
+
+Service Tag Discovery API is now available in preview | Azure updates | Microsoft Azure
+https://azure.microsoft.com/en-us/updates/service-tag-discovery-api-in-preview/
+
+Download Azure IP Ranges and Service Tags – Public Cloud from Official Microsoft Download Center
+https://www.microsoft.com/en-us/download/details.aspx?id=56519
+
+Just-in-time virtual machine access in Azure Security Center | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time?tabs=jit-config-asc%2Cjit-request-asc
+
+What is Azure Private Link? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/private-link/private-link-overview
+
+Use a custom markdown tile on Azure dashboards | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-markdown-tile
+
+Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview
+
+Introduction to IP flow verify in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-ip-flow-verify-overview
+
+Introduction to Effective security rules view in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-security-group-view-overview
+
+Introduction to next hop in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-next-hop-overview
+
+Troubleshoot connections - Azure portal - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-connectivity-portal
+
+Troubleshoot connections - Azure portal - Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-connectivity-portal

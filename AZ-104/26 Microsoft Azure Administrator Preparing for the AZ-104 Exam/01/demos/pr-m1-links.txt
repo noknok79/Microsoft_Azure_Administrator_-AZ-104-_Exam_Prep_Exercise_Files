@@ -1,0 +1,25 @@
+Module 1: Mastering Microsoft Certification Exam Questions
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+certification-exam-policies | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies
+
+microsoftlearning - YouTube
+https://www.youtube.com/user/microsoftlearning
+
+Introduction to VARK | VARK
+https://vark-learn.com/introduction-to-vark/
+
+AZ-104 Mapping Document
+https://timwinfo-my.sharepoint.com/:x:/g/personal/tim_timw_info/ERry4ud6hvlNs3gnfZYdVzoBGsSK5qw62uh0cw-TZj2Pfg?e=2PuvpO
+
+Microsoft Azure Administrator (AZ-103) | Practice Test - CyberVista
+https://certify.cybervista.net/products/microsoft/microsoft-azure-admin-mc-azure-admin-associate-practice-test/
+
+Microsoft Azure Exam AZ-104 Certification | Whizlabs
+https://www.whizlabs.com/microsoft-azure-certification-az-104/
+
+AZ-104: Microsoft Azure Administrator
+https://www.measureup.com/az-104-microsoft-azure-administrator.html

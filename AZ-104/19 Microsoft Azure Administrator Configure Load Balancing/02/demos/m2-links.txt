@@ -1,0 +1,40 @@
+Module 2: Configuring and Troubleshooting Azure Application Gateway
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure Application Gateway documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/
+
+Application Gateway Pricing | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/application-gateway/
+
+Application gateway components | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components
+
+Azure Application Gateway configuration overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
+
+Enabling end to end TLS on Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview
+
+What is Azure Web Application Firewall on Azure Application Gateway? - Azure Web Application Firewall | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview
+
+Azure Web Application Firewall (WAF) policy overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview
+
+OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/
+
+Quickstart: Direct web traffic using CLI - Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-cli
+
+Azure CLI examples for Azure Application Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/application-gateway/cli-samples
+
+Azure CLI Tools - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli
+
+Azure Marketplace | Microsoft Azure
+https://azure.microsoft.com/en-us/marketplace/

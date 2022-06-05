@@ -1,0 +1,55 @@
+Module 1 - Configuring an Azure Virtual Private Network
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+About Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways
+
+Azure VPN Gateway FAQ | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq
+
+Azure Arc | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-arc/
+
+Azure Virtual Network peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+Compliance in the trusted cloud | Microsoft Azure
+https://azure.microsoft.com/en-us/overview/trusted-cloud/compliance/
+
+Connect on-premises network to Azure virtual network: Site-to-Site VPN: Portal - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal
+
+About Azure Point-to-Site VPN connections | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about
+
+Configure a VNet-to-VNet VPN Gateway connection: Azure portal | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal
+
+Azure VPN Gateway: About VPN devices for connections | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices
+
+VPN Gateway Pricing | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/vpn-gateway/
+
+Test-NetConnection (NetTCPIP) | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=win10-ps
+
+Generate and export certificates for P2S: PowerShell - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site
+
+Connect to a VNet using P2S VPN & certificate authentication: portal - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal
+
+Microsoft Azure Portal | Microsoft Azure
+https://azure.microsoft.com/en-us/features/azure-portal/
+
+Get the Azure Portal App (Desktop Application)
+https://zimmergren.net/use-azure-portal-desktop-application/
+
+Create & install P2S VPN client configuration files: certificate authentication - Azure VPN Gateway | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-azure-cert
+
+Configure Azure Point-to-Site Connection In Windows Admin Center With Azure Network Adapter @ServerMgmt - CHARBEL NEMNOM MVP | MCT - Microsoft Azure & More
+https://charbelnemnom.com/2018/10/configure-azure-point-to-site-connection-in-windows-admin-center-with-azure-network-adapter-servermgmt/

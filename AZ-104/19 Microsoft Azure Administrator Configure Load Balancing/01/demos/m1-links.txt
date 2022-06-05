@@ -1,0 +1,46 @@
+Module 1: Configuring and Troubleshooting Azure Load Balancer
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/
+
+Pricing—Load Balancer | Microsoft Azure
+https://azure.microsoft.com/en-us/pricing/details/load-balancer/
+
+Configure Azure Load Balancer distribution mode - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-distribution-mode
+
+What is Direct Server Return & Why Does it Matter?
+https://kemptechnologies.com/white-papers/what-is-direct-server-return/
+
+Configure availability group listeners & load balancer (Azure portal) - SQL Server on Azure VM | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure
+
+Configure availability group (Azure quickstart template) - SQL Server on Azure VM | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-quickstart-template-configure
+
+Configure availability group (Azure quickstart template) - SQL Server on Azure VM | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-quickstart-template-configure
+
+Azure Resource Health overview - Azure Service Health | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/service-health/resource-health-overview
+
+PsPing Network Latency Test - Azure Speed Test
+https://www.azurespeed.com/Azure/PsPing
+
+Troubleshooting networks with TCPing
+https://techtalk.gfi.com/troubleshooting-networks-with-tcping/
+
+Test-NetConnection
+https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=win10-ps
+
+Monitor operations, events, and counters for public Basic Load Balancer - Azure Load Balancer | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-monitor-log
+
+Introduction to Packet capture in Azure Network Watcher | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-overview
+
+Introducing Azure Load Balancer insights using Azure Monitor for Networks | Azure Blog and Updates | Microsoft Azure
+https://azure.microsoft.com/en-us/blog/introducing-azure-load-balancer-insights-using-azure-monitor-for-networks/

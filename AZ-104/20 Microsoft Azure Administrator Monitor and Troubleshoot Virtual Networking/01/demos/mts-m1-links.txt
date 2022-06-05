@@ -1,0 +1,43 @@
+Module 1: Inspecting Azure Virtual Network Traffic
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure Network Watcher Documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/network-watcher/
+
+Azure Virtual Network peering | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+Azure virtual network traffic routing | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview
+
+Monitoring solutions in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/solutions?tabs=portal
+
+Azure Firewall documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/firewall/
+
+Tutorial: Get started with Log Analytics queries - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal
+
+Azure Monitor documentation - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/
+
+Overview of log queries in Azure Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview
+
+Network Performance Monitor solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor
+
+FAQs - Network Performance Monitor solution in Azure - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-faq
+
+Log Analytics agent overview - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/log-analytics-agent
+
+Pricing FAQ for Azure Network Performance Monitor - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-pricing-faq
+
+Connect computers by using the Log Analytics gateway - Azure Monitor | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/gateway

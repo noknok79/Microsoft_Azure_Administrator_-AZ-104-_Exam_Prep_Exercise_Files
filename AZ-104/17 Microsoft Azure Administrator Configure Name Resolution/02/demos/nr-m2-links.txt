@@ -1,0 +1,37 @@
+Module 2: Configuring the Azure DNS Service
+
+Exam AZ-104: Microsoft Azure Administrator - Learn | Microsoft Docs
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Azure DNS documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/
+
+Azure DNS documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/
+
+Azure DNS documentation | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/
+
+How Azure Traffic Manager works | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works
+
+Alias records overview - Azure DNS | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/dns-alias
+
+Host load-balanced Azure web apps at the zone apex | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/dns-alias-appservice
+
+Tutorial: Create an alias record to support domain apex names - Traffic Manager - Azure DNS | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/tutorial-alias-tm
+
+Tutorial: Map existing custom DNS name - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain
+
+Configure DNS names with Traffic Manager - Azure App Service | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/app-service/configure-domain-traffic-manager
+
+What is Azure Private DNS? | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/dns/private-dns-overview
+
+What is Azure DNS? | Microsoft Docs
+https://docs.microsoft.com/bs-cyrl-ba/azure/dns/dns-overview

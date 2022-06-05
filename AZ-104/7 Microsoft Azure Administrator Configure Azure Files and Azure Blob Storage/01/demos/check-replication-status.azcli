@@ -1,0 +1,7 @@
+az storage blob show \
+    --account-name sablobeast \
+    --container-name blobdata \
+    --name file001.txt \
+    --query 'objectReplicationSourceProperties[].rules[].status' \
+    --output tsv \
+    --account-key '9BtUgfEv4+YmRoSbgugmlsF+GrqmOO5Vh6OGE39uySZVCUVxaFL/S8i0ILc6ut5+Z9f9rwPArcbYl+f3c9zDVA=='
